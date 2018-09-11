@@ -1,0 +1,14 @@
+<style>
+body {
+    font-size: 12px;
+    color: #111;
+    background-color: #fff;
+    font-family: Verdana, Geneva, sans-serif;
+}
+.post-desc p, .single-post .post-desc p, .single-wrapper .post-desc li, .single-post .post-desc li {
+    font-size: 1.27em;
+    line-height: 1.22em;
+    font-weight: 400;
+    margin: 0 15% !important;
+}
+</style>
